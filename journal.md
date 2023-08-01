@@ -1,8 +1,14 @@
 # 100DaysOfOSS Progress Tracker
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+## Day 1
+
+- **Project**: Getting Started
+- **Description**: I took the OpenSauced introductory course to Open-Source
+- **Tasks completed**:  
+ - Learnt the underlying aims to and history of Open-Source Software.
+ - Learnt the processes involved in contributing to Open-Source.
+ - Created my first PR to an Open-Source project.
+ - Created my first Highlight on the OpenSauced Platform.
+- **Challenges faced**: N/A
+- **Resources used**: https://github.com/open-sauced/intro
+- **OpenSauced Highlight**: https://insights.opensauced.pizza/feed/282
