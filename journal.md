@@ -26,3 +26,15 @@
 - **Resources used**: Github, CodeTriage
 - **OpenSauced Highlight**: N/A
 
+
+
+## Day 3
+
+- **Project**: Precedent
+- **Description**: I found a project that aligned with my needs - Precedent.
+- **Tasks completed**:  
+    - I forked and cloned the repo to explore its codebase.
+    - I then opened an issue suggesting a feature addition https://github.com/steven-tey/precedent/issues/64.
+- **Challenges faced**: N/A
+- **Resources used**: https://github.com/steven-tey/precedent
+- **OpenSauced Highlight**: N/A
