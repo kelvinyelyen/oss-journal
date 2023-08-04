@@ -38,3 +38,18 @@
 - **Challenges faced**: N/A
 - **Resources used**: https://github.com/steven-tey/precedent
 - **OpenSauced Highlight**: N/A
+
+
+
+## Day 4
+
+- **Project**: Portal
+- **Description**: Worked on a personal project which was inspired by Precedent (Open-Source Project).
+- **Tasks completed**:  
+    - Setup a full-stack authentication template project.
+    - Utilized TypeScript, Nextjs, Vercel Postgres, Prisma and NextAuthjs.
+    - Worked on documentation in detail.
+    - Deployed for continuous improvement and contribution. 
+- **Challenges faced**: N/A
+- **Resources used**: https://github.com/kelvinyelyen/nextjs-postgres-auth, https://github.com/steven-tey/precedent/issues/64
+- **OpenSauced Highlight**: N/A
