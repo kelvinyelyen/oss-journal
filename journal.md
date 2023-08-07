@@ -10,8 +10,8 @@
     - Created my first PR to an Open-Source repo.
     - Created my first Highlight on the OpenSauced Platform.
 - **Challenges faced**: N/A
-- **Resources used**: https://github.com/open-sauced/intro
-- **OpenSauced Highlight**: https://insights.opensauced.pizza/feed/282
+- **Resources used**: [OpenSauced Introductory Course](https://github.com/open-sauced/intro)
+- **OpenSauced Highlight**: [First Highlight](https://insights.opensauced.pizza/feed/282)
 
 
 
@@ -34,9 +34,9 @@
 - **Description**: I found a project that aligned with my needs - Precedent.
 - **Tasks completed**:  
     - I forked and cloned the repo to explore its codebase.
-    - I then opened an issue suggesting a feature addition https://github.com/steven-tey/precedent/issues/64.
+    - I then opened an issue suggesting a feature addition [First Issue in Precedent](https://github.com/steven-tey/precedent/issues/64).
 - **Challenges faced**: N/A
-- **Resources used**: https://github.com/steven-tey/precedent
+- **Resources used**: [Precedent](https://github.com/steven-tey/precedent)
 - **OpenSauced Highlight**: N/A
 
 
@@ -44,12 +44,25 @@
 ## Day 4
 
 - **Project**: Portal
-- **Description**: Worked on a personal project which was inspired by Precedent (Open-Source Project).
+- **Description**: Dedicated time to a personal project that drew inspiration from the Precedent open-source project.
 - **Tasks completed**:  
     - Setup a full-stack authentication template project.
     - Utilized TypeScript, Nextjs, Vercel Postgres, Prisma and NextAuthjs.
-    - Worked on documentation in detail.
-    - Deployed for continuous improvement and contribution. 
+    - Thoroughly documented the process.
+    - Deployed the project to facilitate continuous improvement and collaborative contributions. 
 - **Challenges faced**: N/A
-- **Resources used**: https://github.com/kelvinyelyen/nextjs-postgres-auth, https://github.com/steven-tey/precedent/issues/64
+- **Resources used**: [Project Repo](https://github.com/kelvinyelyen/nextjs-postgres-auth), [Inspiration](https://github.com/steven-tey/precedent/issues/64)
+- **OpenSauced Highlight**: N/A
+
+
+
+## Day 5
+
+- **Project**: Twenty
+- **Description**: I came across another project that fits my criteria and will be included in my list of projects to contribute to - Twenty.
+- **Tasks completed**:  
+    - Went through Twenty's documentation.
+    - Explored the codebase and configured a Docker development container within VScode to begin addressing issues.
+- **Challenges faced**: Given the inadequate information available for setting up the project within a development container, I reached out for assistance via the Discord channel.
+- **Resources used**: [Twenty Documentation](https://docs.twenty.com/developer/local-setup)
 - **OpenSauced Highlight**: N/A
