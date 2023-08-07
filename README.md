@@ -6,14 +6,7 @@ Welcome to my 100 Days of Open Source Software (100DaysOfOSS) challenge! During 
 
 ## Goals
 
-My goals for this challenge are as follows:
-
-- Making daily contributions encompassing coding, bug fixes, documentation enhancements, and issue triage.
-- Exploring diverse open source projects, including software libraries, web applications, tools, frameworks, to deepen my tech understanding.
-- Prioritizing quality by rigorously testing, comprehensively documenting, and adhering to project guidelines in each pull request.
-- Fostering effective open source collaboration through active engagement in discussions, community involvement, and seeking constructive feedback.
-- Leveraging the collective wisdom of the open source community, learning from contributors, dissecting complex codebases, and adopting best practices.
-- Launching an independent open source project alongside contributions, giving back and delivering value to users.
+I will contribute daily through coding, bug fixes, documentation, and issue triage. Exploring diverse open source projects will deepen my technical understanding. I'll prioritize quality by rigorous testing and comprehensive documentation, and I'll engage actively in discussions for effective collaboration. Learning from contributors and launching my own project while giving back will further enrich my experience.
 
 
 ## Project Exploration
