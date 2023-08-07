@@ -3,7 +3,7 @@
 ### Description 
 Dedicated time to a personal project that drew inspiration from the Precedent open-source project.
 
-### Tasks completed**:  
+### Tasks completed:  
 - Setup a full-stack authentication template project.
 - Utilized TypeScript, Nextjs, Vercel Postgres, Prisma and NextAuthjs.
 - Thoroughly documented the process.
