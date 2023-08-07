@@ -1,8 +1,68 @@
 # 100DaysOfOSS Progress Tracker
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+## Day 1
+
+- **Project**: Getting Started
+- **Description**: I took the OpenSauced introductory course to Open-Source
+- **Tasks completed**:  
+    - Learnt the underlying aims to and history of Open-Source Software.
+    - Learnt the processes involved in contributing to Open-Source.
+    - Created my first PR to an Open-Source repo.
+    - Created my first Highlight on the OpenSauced Platform.
+- **Challenges faced**: N/A
+- **Resources used**: [OpenSauced Introductory Course](https://github.com/open-sauced/intro)
+- **OpenSauced Highlight**: [First Highlight](https://insights.opensauced.pizza/feed/282)
+
+
+
+## Day 2
+
+- **Project**: Exploring Trends
+- **Description**: On the second day of my journey, I focused on finding an open-source project that aligns with my philosophy. My primary goal was to analyze and understand general trends in contributions to various projects.
+- **Tasks completed**:  
+    - Thoroughly reviewed and studied Codes of Conduct and Guides of different open-source projects.
+    - Messed around with branches and pull requests, techniques for ensuring branch security, and hands-on effective conflict management.
+- **Challenges faced**: N/A
+- **Resources used**: Github, CodeTriage
+- **OpenSauced Highlight**: N/A
+
+
+
+## Day 3
+
+- **Project**: Precedent
+- **Description**: I found a project that aligned with my needs - Precedent.
+- **Tasks completed**:  
+    - I forked and cloned the repo to explore its codebase.
+    - I then opened an issue suggesting a feature addition [First Issue in Precedent](https://github.com/steven-tey/precedent/issues/64).
+- **Challenges faced**: N/A
+- **Resources used**: [Precedent](https://github.com/steven-tey/precedent)
+- **OpenSauced Highlight**: N/A
+
+
+
+## Day 4
+
+- **Project**: Portal
+- **Description**: Dedicated time to a personal project that drew inspiration from the Precedent open-source project.
+- **Tasks completed**:  
+    - Setup a full-stack authentication template project.
+    - Utilized TypeScript, Nextjs, Vercel Postgres, Prisma and NextAuthjs.
+    - Thoroughly documented the process.
+    - Deployed the project to facilitate continuous improvement and collaborative contributions. 
+- **Challenges faced**: N/A
+- **Resources used**: [Project Repo](https://github.com/kelvinyelyen/nextjs-postgres-auth), [Inspiration](https://github.com/steven-tey/precedent/issues/64)
+- **OpenSauced Highlight**: N/A
+
+
+
+## Day 5
+
+- **Project**: Twenty
+- **Description**: I came across another project that fits my criteria and will be included in my list of projects to contribute to - Twenty.
+- **Tasks completed**:  
+    - Went through Twenty's documentation.
+    - Explored the codebase and configured a Docker development container within VScode to begin addressing issues.
+- **Challenges faced**: Given the inadequate information available for setting up the project within a development container, I reached out for assistance via the Discord channel.
+- **Resources used**: [Twenty Documentation](https://docs.twenty.com/developer/local-setup)
+- **OpenSauced Highlight**: N/A
