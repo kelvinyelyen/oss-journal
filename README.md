@@ -14,6 +14,12 @@ I will contribute daily through coding, bug fixes, documentation, and issue tria
 Throughout these 100 days, my current project pursuits (subject to evolution) include:
 - [Twenty](https://github.com/kelvinyelyen/twenty)
 
+Other interesting projects i'll be jumping on soon
+- [Infisical](https://github.com/Infisical/infisical)
+- [Novel](https://github.com/steven-tey/novel)
+- [Dub](https://github.com/steven-tey/dub)
+
+
 Feel free to propose alternative open source opportunities that align with my objectives!
 
 ## Progress Monitoring
