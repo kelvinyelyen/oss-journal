@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my 100 Days of Open Source Software (100DaysOfOSS) challenge! During this journey, I am committed to contributing to open source projects for the next 100 days. This challenge aims to enhance my skills, collaborate with the open source community, and make a positive impact on various projects.
+Taking on the 100 Days of Open Source Software (100DaysOfOSS) challenge to push my boundaries, my commitment is aimed to to contribute consistently to open source projects over the upcoming 100 days. This challenge is geared towards skill advancement, fostering collaborative efforts within the open source ecosystem, and effecting positive changes across diverse projects.
 
 ## Goals
 
@@ -11,14 +11,13 @@ I will contribute daily through coding, bug fixes, documentation, and issue tria
 
 ## Project Exploration
 
-Throughout these 100 days, my current project pursuits (subject to evolution) include:
+During this period, I'll be focusing on the following projects (subject to evolution):
 - [Twenty](https://github.com/kelvinyelyen/twenty)
 - [Infisical](https://github.com/Infisical/infisical)
 
-Other interesting projects I'll like to jump on soon
+Additionally, I'm keen to explore these promising projects soon:
 - [Dub](https://github.com/steven-tey/dub)
 - [Novel](https://github.com/steven-tey/novel)
-
 
 
 Feel free to propose alternative open source opportunities that align with my objectives!
