@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Taking on the 100 Days of Open Source Software (100DaysOfOSS) challenge to push my boundaries, my commitment is aimed to to contribute consistently to open source projects over the upcoming 100 days. This challenge is geared towards skill advancement, fostering collaborative efforts within the open source ecosystem, and effecting positive changes across diverse projects.
+Taking on the 100 Days of Open Source Software (100DaysOfOSS) challenge to push my boundaries, my commitment is aimed at contributing consistently to open source projects over the upcoming 100 days. This challenge is geared towards skill advancement, fostering collaborative efforts within the open source ecosystem, and effecting positive changes across diverse projects.
 
 ## Goals
 
